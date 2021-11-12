@@ -37,5 +37,7 @@ Generate tables and figures needed for a technical report of a study of 249 mice
 * Weight is a negative factor related to Tumor Volume shrinking.
 
 
+### Copyright
+Trilogy Education Services © 2020. All Rights Reserved.
 
 
